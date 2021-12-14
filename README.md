@@ -1,5 +1,5 @@
 # Euphyllia-Life
-A repository for assets and edits created during the designing and developing of the Euphyllia Life Shopify website.
+A repository for assets and edits created while designing and developing of the Euphyllia Life Shopify website.
 
 Website Link: https://euphyllia-life.myshopify.com/
 
