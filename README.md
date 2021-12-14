@@ -1,6 +1,8 @@
 # Euphyllia-Life
 A repository for assets and edits added on top of a Shopify theme to design and develop the Euphyllia Life Shopify website.
 
+Website Link: https://euphyllia-life.myshopify.com/
+
 Overview: These are assets for a website created for Euphyllia Life, a website I was hired to develop as an outlet for blog posts and selling aquarium products. During the project, I created branding for the company, customized the "Minimal" Shopify theme with added SCSS/HTML to provide a better overall experience, and designed the layout/structure of the website. In addition, I provided both a Style Guide for branding purposes, and a User Guide so that adding articles/products, making any edits, and changing anything on the website would be straight forward.
 
 Tech Used:
