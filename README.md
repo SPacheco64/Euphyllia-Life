@@ -7,6 +7,7 @@ Overview: These are assets for a website created for Euphyllia Life, a website I
 
 Tech Used:
 - Shopify
+- Liquid
 - HTML5
 - SCSS
 
