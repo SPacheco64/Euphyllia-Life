@@ -300,7 +300,16 @@
     /* Additional styling for Shopify Buy Buttons - END */
 
     /* Additional styling for the Website Header - START */
-    .header-bar{ position: fixed; width: 100%; z-index: 600000; }
+    .header-bar
+    { 
+        position: fixed; 
+        width: 100%; 
+        z-index: 600000; 
+        a
+        {
+            &:hover, &:focus, &:active{ color: $euphyllia-blue-1; }
+        }
+    }
     .site-header{ padding-top: 80px; }
     .logo__image-wrapper, .header-bar__left{ caret-color: transparent; }
     /* Additional styling for the Website Header - END */
